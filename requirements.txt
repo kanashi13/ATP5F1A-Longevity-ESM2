@@ -1,0 +1,9 @@
+torch
+esm
+biopython
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+openpyxl
